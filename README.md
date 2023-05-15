@@ -1,5 +1,5 @@
 # Onboarding_NSA
-Welcome to the Onboarding Platform GitHub repository! This repository contains the source code and documentation for a powerful onboarding platform designed to streamline the process of welcoming new employees and getting them up to speed quickly.
+Welcome to the Onboarding_NSA Platform GitHub repository! This repository contains the source code and documentation for a powerful onboarding platform designed to streamline the process of welcoming new employees and getting them up to speed quickly.
 
 # Overview
 The Onboarding Platform is a comprehensive solution that aims to simplify the onboarding experience for both new hires and the HR department. It provides a centralized hub for managing all aspects of the onboarding process, from gathering required information to delivering engaging content and training materials.
